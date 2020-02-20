@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/WhatWouldKanyeSay/static/css/main.b8a31076.chunk.css",
+    "main.js": "/WhatWouldKanyeSay/static/js/main.a205aa29.chunk.js",
+    "main.js.map": "/WhatWouldKanyeSay/static/js/main.a205aa29.chunk.js.map",
+    "runtime-main.js": "/WhatWouldKanyeSay/static/js/runtime-main.5534f5cf.js",
+    "runtime-main.js.map": "/WhatWouldKanyeSay/static/js/runtime-main.5534f5cf.js.map",
+    "static/css/2.47e06e2e.chunk.css": "/WhatWouldKanyeSay/static/css/2.47e06e2e.chunk.css",
+    "static/js/2.1d020f10.chunk.js": "/WhatWouldKanyeSay/static/js/2.1d020f10.chunk.js",
+    "static/js/2.1d020f10.chunk.js.map": "/WhatWouldKanyeSay/static/js/2.1d020f10.chunk.js.map",
+    "index.html": "/WhatWouldKanyeSay/index.html",
+    "precache-manifest.e2d0af0f39413f481cc1c4aeec01c834.js": "/WhatWouldKanyeSay/precache-manifest.e2d0af0f39413f481cc1c4aeec01c834.js",
+    "service-worker.js": "/WhatWouldKanyeSay/service-worker.js",
+    "static/css/2.47e06e2e.chunk.css.map": "/WhatWouldKanyeSay/static/css/2.47e06e2e.chunk.css.map",
+    "static/css/main.b8a31076.chunk.css.map": "/WhatWouldKanyeSay/static/css/main.b8a31076.chunk.css.map",
+    "static/js/2.1d020f10.chunk.js.LICENSE.txt": "/WhatWouldKanyeSay/static/js/2.1d020f10.chunk.js.LICENSE.txt",
+    "static/media/kayneThinkingFace.jpg": "/WhatWouldKanyeSay/static/media/kayneThinkingFace.89e03666.jpg",
+    "static/media/logo.svg": "/WhatWouldKanyeSay/static/media/logo.5d5d9eef.svg",
+    "static/media/westkanye.jpg": "/WhatWouldKanyeSay/static/media/westkanye.f09436cb.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5534f5cf.js",
+    "static/css/2.47e06e2e.chunk.css",
+    "static/js/2.1d020f10.chunk.js",
+    "static/css/main.b8a31076.chunk.css",
+    "static/js/main.a205aa29.chunk.js"
+  ]
+}
